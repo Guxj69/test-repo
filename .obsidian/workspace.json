@@ -193,6 +193,9 @@
   "active": "640458c7522e024c",
   "lastOpenFiles": [
     "surreal_data/mydatabase.db/desktop.ini",
+    "notebook_data/uploads/desktop.ini",
+    "notebook_data/tiktoken-cache/desktop.ini",
+    "surreal_data/desktop.ini",
     "surreal_data/mydatabase.db/OPTIONS-000098",
     "surreal_data/mydatabase.db/OPTIONS-000097.dbtmp",
     "surreal_data/mydatabase.db/000096.dbtmp",
@@ -200,9 +203,6 @@
     "surreal_data/mydatabase.db/000095.log",
     "surreal_data/mydatabase.db/LOG.old.1772161089392132",
     "surreal_data/mydatabase.db/000092.sst",
-    "surreal_data/mydatabase.db/000091.sst",
-    "surreal_data/mydatabase.db/000090.log",
-    "surreal_data/mydatabase.db/OPTIONS-000089",
     "测试.md",
     "报告.md"
   ]
