@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a26119feee7fb064",
+        "id": "ea5f70b10f3e6dc0",
         "type": "tabs",
         "children": [
           {
-            "id": "a955a6430250bff2",
+            "id": "ea42b607be0b0be0",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-deepseek",
-              "state": {},
-              "icon": "lucide-fish",
-              "title": "deepseek"
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -201,23 +208,26 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "640458c7522e024c",
+  "active": "ea42b607be0b0be0",
   "lastOpenFiles": [
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "未命名.canvas",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "测试.md",
+    "报告.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "surreal_data/mydatabase.db/desktop.ini",
@@ -227,8 +237,6 @@
     "surreal_data/mydatabase.db/OPTIONS-000098",
     "surreal_data/mydatabase.db/OPTIONS-000097.dbtmp",
     "surreal_data/mydatabase.db/000096.dbtmp",
-    "surreal_data/mydatabase.db/MANIFEST-000096",
-    "测试.md",
-    "报告.md"
+    "surreal_data/mydatabase.db/MANIFEST-000096"
   ]
 }
