@@ -28,7 +28,7 @@
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
   "temperature": 0.1,
   "maxTokens": 6000,
-  "contextTurns": 15,
+  "contextTurns": 28,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
@@ -102,8 +102,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -112,8 +112,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -199,8 +199,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -209,8 +209,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -219,8 +219,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -229,8 +229,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -391,7 +391,7 @@
   "showSuggestedPrompts": true,
   "showRelevantNotes": true,
   "numPartitions": 1,
-  "lexicalSearchRamLimit": 100,
+  "lexicalSearchRamLimit": 500,
   "promptUsageTimestamps": {},
   "promptSortStrategy": "timestamp",
   "chatHistorySortStrategy": "recent",
@@ -440,6 +440,6 @@
   "diffViewMode": "split",
   "userSystemPromptsFolder": "copilot/system-prompts",
   "defaultSystemPromptTitle": "",
-  "autoCompactThreshold": 128000,
+  "autoCompactThreshold": 256000,
   "convertedDocOutputFolder": ""
 }
