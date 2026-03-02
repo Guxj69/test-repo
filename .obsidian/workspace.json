@@ -11,17 +11,14 @@
             "id": "ea42b607be0b0be0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "Clip YouTube Transcript"
             }
           }
         ]
@@ -210,6 +207,8 @@
   },
   "active": "ea42b607be0b0be0",
   "lastOpenFiles": [
+    "测试.md",
+    "报告.md",
     "未命名.canvas",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Summarize.md",
@@ -225,8 +224,6 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "测试.md",
-    "报告.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts",
     "copilot",
