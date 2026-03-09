@@ -11,17 +11,14 @@
             "id": "ea42b607be0b0be0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "报告.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "报告"
             }
           }
         ]
@@ -210,9 +207,9 @@
   },
   "active": "ea42b607be0b0be0",
   "lastOpenFiles": [
-    "测试.md",
-    "报告.md",
     "未命名.canvas",
+    "报告.md",
+    "测试.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Simplify.md",
